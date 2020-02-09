@@ -1,3 +1,2 @@
-import MobileNav from './MobileNav';
-
-export default MobileNav;
+import MobileNav from './MobileNav'
+export default MobileNav
