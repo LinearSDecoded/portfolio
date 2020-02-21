@@ -7,7 +7,7 @@ const About = ({ user }) => {
   return (
     <Layout user={user}>
       <div>
-        <SectionTitle>About About</SectionTitle>
+        <SectionTitle>About</SectionTitle>
         <Paragraph>{user.basics.summary}</Paragraph>
       </div>
       <div>
